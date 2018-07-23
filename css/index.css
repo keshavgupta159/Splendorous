@@ -1,0 +1,16 @@
+body {
+  margin: 50px;
+  background-color: #000000;
+  align-content: 'center';
+  align-items: "center";
+  justify-content: "center";
+}
+img {
+    border-radius: 50%;
+}
+.tab-pane{
+  background-color: #000;
+}
+#carouselExampleIndicators {
+  margin-left: 10px;
+}
